@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Gittest")
+        
+        print("fersa")
+        for i in 0...5{
+            print(i)
+        }
     }
 
 
